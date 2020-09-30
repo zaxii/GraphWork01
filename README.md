@@ -5,6 +5,8 @@
 Weiler-Atherton
 ## Environment:
 
+Python 3.8.3
+
 Package | Version | Latest Version
 
 PyQt5 |	5.15.1 | 5.15.1
